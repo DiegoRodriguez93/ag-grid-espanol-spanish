@@ -55,7 +55,7 @@ var gridOptions = {
       first: 'Primero',
       previous: 'Anteror',
       loadingOoo: 'Cargando...',
-
+	  
       // for set filter
       selectAll: 'Seleccionar Todo',
       searchOoo: 'Buscar...',
@@ -134,6 +134,6 @@ var gridOptions = {
       copy: 'Copiar',
       copyWithHeaders: 'Copiar con cabeceras',
       paste: 'Pegar'   
-  }
+  
   
     }
